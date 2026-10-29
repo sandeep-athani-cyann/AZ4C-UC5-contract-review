@@ -1,0 +1,64 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Result for use case 5: Contract review",
+  "type": "object",
+  "required": [
+    "case_id",
+    "decision",
+    "reason_code",
+    "amount",
+    "citations",
+    "needs_human",
+    "trace_id"
+  ],
+  "properties": {
+    "case_id": {
+      "type": "string"
+    },
+    "decision": {
+      "type": "string",
+      "enum": [
+        "approve",
+        "changes_proposed",
+        "reject"
+      ]
+    },
+    "reason_code": {
+      "type": "string",
+      "enum": [
+        "COMPLIANT",
+        "DEVIATIONS_FOUND",
+        "MISSING_CLAUSES",
+        "RED_LINE_BREACHED"
+      ]
+    },
+    "amount": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "citations": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "needs_human": {
+      "type": "boolean"
+    },
+    "trace_id": {
+      "type": "string"
+    },
+    "findings": {
+      "type": "array",
+      "items": {
+        "type": "object"
+      }
+    },
+    "review_rounds": {
+      "type": "integer"
+    }
+  },
+  "additionalProperties": true
+}

@@ -1,0 +1,21 @@
+counterparty_id,name,risk_tier,city,is_synthetic
+CP-201,Arunodaya Freight Systems Pvt Ltd,low,Ahmedabad,1
+CP-202,Bharat Fleet Telematics Pvt Ltd,high,Pune,1
+CP-203,Coastline Cold Chain Ltd,low,Kolkata,1
+CP-204,Dakshin Warehousing Solutions Pvt Ltd,high,Hyderabad,1
+CP-205,Ekam Software Services Pvt Ltd,high,Hyderabad,1
+CP-206,Falcon Customs Brokers LLP,low,Mumbai,1
+CP-207,Ganga Security Services Pvt Ltd,high,Pune,1
+CP-208,Harbourline Container Lines Pvt Ltd,low,Delhi,1
+CP-209,Indigo Route Analytics Pvt Ltd,low,Hyderabad,1
+CP-210,Jaldi Last Mile Pvt Ltd,low,Hyderabad,1
+CP-211,Kaveri Facility Management Ltd,medium,Bengaluru,1
+CP-212,Lighthouse Data Labs Pvt Ltd,medium,Delhi,1
+CP-213,Meridian Tyre & Fleet Care Pvt Ltd,medium,Ahmedabad,1
+CP-214,Nilgiri Packaging Industries Ltd,medium,Pune,1
+CP-215,Orbit Cloud Hosting Pvt Ltd,medium,Pune,1
+CP-216,Pragati Manpower Services Pvt Ltd,high,Delhi,1
+CP-217,Quantum Scanners India Pvt Ltd,medium,Hyderabad,1
+CP-218,Rajhans Fuel Cards Pvt Ltd,low,Delhi,1
+CP-219,Sahyog Pallet Pooling Pvt Ltd,low,Ahmedabad,1
+CP-220,Tarang Telecom Solutions Pvt Ltd,medium,Hyderabad,1

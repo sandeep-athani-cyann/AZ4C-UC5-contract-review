@@ -1,0 +1,25 @@
+contract_id,counterparty_id,contract_type,title,annual_value_inr,term_months,received_on,status,is_synthetic
+CTR-1004,CP-201,NDA,Mutual NDA with Arunodaya Freight Systems Pvt Ltd,0.0,24,2026-10-25,under_review,1
+CTR-1007,CP-205,SOW,Statement of Work with Ekam Software Services Pvt Ltd,7500000.0,12,2026-10-11,under_review,1
+CTR-1012,CP-203,MSA,Master Services Agreement with Coastline Cold Chain Ltd,9000000.0,24,2026-10-04,under_review,1
+CTR-1015,CP-219,MSA,Master Services Agreement with Sahyog Pallet Pooling Pvt Ltd,6000000.0,24,2026-10-25,under_review,1
+CTR-1017,CP-212,MSA,Master Services Agreement with Lighthouse Data Labs Pvt Ltd,2500000.0,12,2026-10-05,under_review,1
+CTR-1029,CP-202,MSA,Master Services Agreement with Bharat Fleet Telematics Pvt Ltd,2500000.0,36,2026-10-04,under_review,1
+CTR-1034,CP-216,MSA,Master Services Agreement with Pragati Manpower Services Pvt Ltd,9000000.0,24,2026-10-12,under_review,1
+CTR-1051,CP-206,MSA,Master Services Agreement with Falcon Customs Brokers LLP,6000000.0,12,2026-10-20,under_review,1
+CTR-1052,CP-218,NDA,Mutual NDA with Rajhans Fuel Cards Pvt Ltd,0.0,12,2026-10-22,under_review,1
+CTR-1054,CP-220,MSA,Master Services Agreement with Tarang Telecom Solutions Pvt Ltd,4000000.0,24,2026-10-03,under_review,1
+CTR-1055,CP-217,NDA,Mutual NDA with Quantum Scanners India Pvt Ltd,0.0,36,2026-10-21,under_review,1
+CTR-1062,CP-208,MSA,Master Services Agreement with Harbourline Container Lines Pvt Ltd,7500000.0,36,2026-10-23,under_review,1
+CTR-1063,CP-209,NDA,Mutual NDA with Indigo Route Analytics Pvt Ltd,0.0,12,2026-10-09,under_review,1
+CTR-1064,CP-210,NDA,Mutual NDA with Jaldi Last Mile Pvt Ltd,0.0,36,2026-10-01,under_review,1
+CTR-1065,CP-215,MSA,Master Services Agreement with Orbit Cloud Hosting Pvt Ltd,9000000.0,36,2026-10-15,under_review,1
+CTR-1066,CP-217,MSA,Master Services Agreement with Quantum Scanners India Pvt Ltd,2500000.0,24,2026-10-07,under_review,1
+CTR-1067,CP-213,MSA,Master Services Agreement with Meridian Tyre & Fleet Care Pvt Ltd,24000000.0,24,2026-10-18,under_review,1
+CTR-1068,CP-211,MSA,Master Services Agreement with Kaveri Facility Management Ltd,4000000.0,36,2026-10-21,under_review,1
+CTR-1071,CP-205,SOW,Statement of Work with Ekam Software Services Pvt Ltd,7500000.0,36,2026-10-11,under_review,1
+CTR-1073,CP-207,SOW,Statement of Work with Ganga Security Services Pvt Ltd,7500000.0,36,2026-10-18,under_review,1
+CTR-1074,CP-204,SOW,Statement of Work with Dakshin Warehousing Solutions Pvt Ltd,7500000.0,12,2026-10-01,under_review,1
+CTR-1075,CP-214,MSA,Master Services Agreement with Nilgiri Packaging Industries Ltd,18000000.0,12,2026-10-09,under_review,1
+CTR-1077,CP-213,SOW,Statement of Work with Meridian Tyre & Fleet Care Pvt Ltd,7500000.0,24,2026-10-17,under_review,1
+CTR-1098,CP-212,SOW,Statement of Work with Lighthouse Data Labs Pvt Ltd,7500000.0,36,2026-10-07,under_review,1

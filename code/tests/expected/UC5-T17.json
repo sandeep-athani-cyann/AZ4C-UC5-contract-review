@@ -1,0 +1,15 @@
+{
+  "case_id": "UC5-T17",
+  "decision": "changes_proposed",
+  "reason_code": [
+    "MISSING_CLAUSES"
+  ],
+  "amount": {
+    "value": 24000000.0,
+    "tolerance": 1.0
+  },
+  "must_cite": [
+    "R-11"
+  ],
+  "needs_human": true
+}

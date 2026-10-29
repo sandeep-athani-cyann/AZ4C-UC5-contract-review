@@ -1,0 +1,15 @@
+{
+  "case_id": "UC5-T15",
+  "decision": "reject",
+  "reason_code": [
+    "RED_LINE_BREACHED"
+  ],
+  "amount": {
+    "value": 9000000.0,
+    "tolerance": 1.0
+  },
+  "must_cite": [
+    "R-04"
+  ],
+  "needs_human": true
+}

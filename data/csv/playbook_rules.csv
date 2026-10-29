@@ -1,0 +1,12 @@
+rule_id,clause_type,applies_to,preferred,fallback,red_line,condition,is_synthetic
+R-01,LIMITATION_OF_LIABILITY,"MSA,SOW",Supplier's total liability capped at no less than 2x the annual fees,Cap of at least 1x the annual fees,Cap below 0.5x the annual fees,Fallback is not acceptable where the annual value is more than ₹1 crore,1
+R-02,INDEMNITY,MSA,Supplier indemnifies Veridian against third-party IP infringement claims and data breaches,Supplier indemnifies against third-party IP infringement claims only,Veridian indemnifies the supplier for claims other than those caused by Veridian's own breach,,1
+R-03,CONFIDENTIALITY_TERM,"NDA,MSA",Confidentiality survives at least 5 years after the agreement ends,At least 3 years,Less than 2 years,,1
+R-04,GOVERNING_LAW,"NDA,MSA,SOW",Laws of India; exclusive jurisdiction of the courts at Mumbai,"Laws of India; arbitration seated in India under the Arbitration and Conciliation Act, 1996",Any law other than Indian law,,1
+R-05,TERMINATION_FOR_CONVENIENCE,MSA,Veridian may terminate for convenience on no more than 30 days' notice,No more than 60 days' notice,"No right for Veridian to terminate for convenience, or more than 90 days' notice",,1
+R-06,PAYMENT_TERMS,"MSA,SOW",Payment within 60 days of a valid invoice,Payment within 45 days,,Anything shorter than 45 days is a deviation,1
+R-07,DATA_PROTECTION,"MSA,SOW","Compliance with the Digital Personal Data Protection Act, 2023 and breach notification within 72 hours",Breach notification within 7 days,,"Notification later than 7 days, or none, is a deviation",1
+R-08,IP_OWNERSHIP,SOW,All deliverables and their IP belong to Veridian on creation,"Supplier keeps IP but grants Veridian a perpetual, royalty-free, irrevocable licence","Supplier keeps all IP with no licence, or only a time-limited licence, to Veridian",,1
+R-09,AUDIT_RIGHTS,MSA,Veridian may audit on 15 days' notice,Audit on 30 days' notice,,Required only where the counterparty's risk tier is high,1
+R-10,SUBCONTRACTING,MSA,No subcontracting without Veridian's prior written consent,Subcontracting allowed with 15 days' prior written notice,,Subcontracting without consent or notice is a deviation,1
+R-11,INSURANCE,MSA,Professional indemnity insurance of at least ₹5 crore,At least ₹2 crore,,Required only where the annual value is more than ₹1 crore,1

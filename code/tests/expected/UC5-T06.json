@@ -1,0 +1,16 @@
+{
+  "case_id": "UC5-T06",
+  "decision": "approve",
+  "reason_code": [
+    "COMPLIANT"
+  ],
+  "amount": {
+    "value": 2500000.0,
+    "tolerance": 1.0
+  },
+  "must_cite": [
+    "CTR-1029",
+    "R-09"
+  ],
+  "needs_human": false
+}

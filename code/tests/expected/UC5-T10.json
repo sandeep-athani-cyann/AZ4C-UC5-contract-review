@@ -1,0 +1,20 @@
+{
+  "case_id": "UC5-T10",
+  "decision": "changes_proposed",
+  "reason_code": [
+    "DEVIATIONS_FOUND"
+  ],
+  "amount": {
+    "value": 4000000.0,
+    "tolerance": 1.0
+  },
+  "must_cite": [
+    "R-06",
+    "R-07",
+    "R-10"
+  ],
+  "needs_human": true,
+  "key_numbers": [
+    30
+  ]
+}
